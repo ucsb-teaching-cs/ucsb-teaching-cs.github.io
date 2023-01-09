@@ -2,6 +2,7 @@
 topic: "Open Lab Signup: TAs, LAs"
 desc: "Process for signing up for open lab hours"
 open_lab_hours_cal_url:  https://calendar.google.com/calendar/embed?src=c_63b5996e60394b6a3b1710ad1332901ffe44a7ee8f577acee5f98eb956dfb5cb%40group.calendar.google.com&ctz=America%2FLos_Angeles
+cs16: https://calendar.google.com/calendar/ical/c_42ae45e7876173c3c53b74b699c6b141ef33170f3c8ba7f1436a6b97bb9f5da5%40group.calendar.google.com/public/basic.ics
 ---
 
 Open lab hours refers to the times that these rooms:
@@ -61,4 +62,6 @@ Then, to sign up for office hours:
    instructor and fellow course staff members (i.e. the TAs and LAs that also teach your class) as well as the students in your class; your instructor
    will clarify how you should do that.  But, once you've done that, you can adjust the calendar event either permanently or for a "one time event".
    
-   
+# Example Calendars
+
+* [CS16]({{page.cs16}})
