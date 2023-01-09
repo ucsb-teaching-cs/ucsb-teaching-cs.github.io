@@ -21,7 +21,8 @@ Starting with W23, we are piloting a new process for signing up for these hours.
 
 # How TAs/LAs sign up for office hours
 
-First, your instructor will need to set up the calendar using these instructions:
+First, your instructor will need to set up the calendar using these instructions.  The link below is **for instructors** not for TAs/LAs; it's included here just for completeness.  Your instructor should follow these instructions first, which include creating a new calendar, and giving you access to it.
+The instructor should then provide you with a link to the calendar where you should add your office hours.
 
 * <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_instructor/>
 
