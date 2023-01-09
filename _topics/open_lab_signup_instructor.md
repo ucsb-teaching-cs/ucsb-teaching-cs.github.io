@@ -1,5 +1,5 @@
 ---
-topic: "Open Lab Signup"
+topic: "Open Lab Signup: Instructor"
 desc: "Process for signing up for open lab hours"
 open_lab_hours_cal_url:  https://calendar.google.com/calendar/embed?src=c_63b5996e60394b6a3b1710ad1332901ffe44a7ee8f577acee5f98eb956dfb5cb%40group.calendar.google.com&ctz=America%2FLos_Angeles
 ---
