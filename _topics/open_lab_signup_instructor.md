@@ -42,7 +42,7 @@ Please take the following steps.  There is an animation that shows each step fol
 # Then, invite your TAs/LAs to create events on the calendar
 
 Send each of your TAs and LAs a message with 
-* A link to the instructions on this page: <>
+* A link to the instructions on this page: <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_tas_las/>
 * A link to the calendar you just created.
 
 # If you like, add additional events.
