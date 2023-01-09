@@ -34,10 +34,18 @@ Please take the following steps.  There is an animation that shows each step fol
 1. Create a Google Calendar called, for example, "CS16 Office Hours" or "CS24 Ofc Hrs".  
 2. Make the calendar public; you'll want it to be public so that students in your class can easily find the published schedule.  We'll show
    you how to embed this on a web page or link to it from your website later in these instructions.
-3. Add phtcon@ucsb.edu, diba@ucsb.edu, and all of your TAs and LAs to the calendar.  Be sure to add Phill and Diba with the permission "Make Changes and Manage Sharing", and your TAs/LAs with the permission `Make Changes to Events`. 
-4. Send an email to phtcon@ucsb.edu, diba@ucsb.edu informing them that you created the calendar, and send them a link to it.
+3. Add phtcon@ucsb.edu, diba@ucsb.edu to the calendar with the permission "Make Changes and Manage Sharing".
+4. Now add all of your TAs and LAs to the calendar with the permission `Make Changes to Events`.  If you have them all in a spreadsheet, you can copy paste a list of emails in and then hit return, as shown in the second animation below.
+5. Once the calendar is created, send an email to phtcon@ucsb.edu, diba@ucsb.edu informing them that you created the calendar, and send them a link to it.
 
 ![add-new-calendar](https://user-images.githubusercontent.com/1119017/211234283-17a2ff6f-f34e-438b-a039-86732f118710.gif)
+
+# Adding multiple TAs/LAs at once
+
+This animation shows how to copy/paste a whole group of emails from a spreadsheet or list to add multiple TAs/LAs at the same time:
+
+![copy-paste-tas-las](https://user-images.githubusercontent.com/1119017/211238046-7719d997-6994-4a8a-843d-eb0752c53709.gif)
+
 
 # Then, invite your TAs/LAs to create events on the calendar
 
