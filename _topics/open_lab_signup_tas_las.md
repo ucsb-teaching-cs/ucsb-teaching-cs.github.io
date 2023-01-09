@@ -22,7 +22,7 @@ Starting with W23, we are piloting a new process for signing up for these hours.
 
 First, your instructor will need to set up the calendar using these instructions:
 
-* <>
+* <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_instructor/>
 
 Then, to sign up for office hours:
 
