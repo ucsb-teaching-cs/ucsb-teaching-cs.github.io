@@ -78,3 +78,19 @@ There are at least two ways to publish your calendar:
      iframe { width: 100%; height: 1400px; }
    </style>
    ```
+
+# Optional: Add the weeks
+
+If you like, you can add "Week 1", "Week 2", etc. to your calendar by doing 10 "Copy to" operations.  
+
+Here's how:
+
+1. Add the Open Lab Calendar to your calendars using this link: 
+   * [UCSB CS Open Lab Hours]({{page.open_lab_hours_cal_url}})
+2. Open that calendar and your own calendar by selecting them with the check boxes (as shown in the animation below)
+3. Select one of the weeks (e.g. `Week 1`)
+4. Click on the three dots, and select "Copy to CS24 Ofc Hrs" (for example)
+5. Click Save
+6. Go to the next week; repeat steps 3 through 6 for each week in the quarter.
+
+![copy-weeks](https://user-images.githubusercontent.com/1119017/211236604-11779761-7cb8-42e3-8203-25e096b1f5fa.gif)
