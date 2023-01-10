@@ -3,6 +3,7 @@ topic: "Open Lab Signup: TAs, LAs"
 desc: "Process for signing up for open lab hours"
 open_lab_hours_cal_url:  https://calendar.google.com/calendar/embed?src=c_63b5996e60394b6a3b1710ad1332901ffe44a7ee8f577acee5f98eb956dfb5cb%40group.calendar.google.com&ctz=America%2FLos_Angeles
 cs16: https://calendar.google.com/calendar/embed?src=c_42ae45e7876173c3c53b74b699c6b141ef33170f3c8ba7f1436a6b97bb9f5da5%40group.calendar.google.com&ctz=America%2FLos_Angeles
+cs24: https://calendar.google.com/calendar/embed?src=c_c7788493d2e424992c5a2393def31662bb2ccc39ccd03e51da61510f965f71e3%40group.calendar.google.com&ctz=America%2FLos_Angeles
 ---
 
 Open lab hours refers to the times that these rooms:
@@ -66,3 +67,4 @@ Then, to sign up for office hours:
 # Example Calendars
 
 * [CS16]({{page.cs16}})
+* [CS24]({{page.cs24}})
