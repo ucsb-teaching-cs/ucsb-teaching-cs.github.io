@@ -2,7 +2,37 @@
 topic: "Open Lab Signup: Instructor"
 desc: "Process for signing up for open lab hours"
 open_lab_hours_cal_url:  https://calendar.google.com/calendar/embed?src=c_63b5996e60394b6a3b1710ad1332901ffe44a7ee8f577acee5f98eb956dfb5cb%40group.calendar.google.com&ctz=America%2FLos_Angeles
+cs16_url: https://example.org
+cs24_url: https://example.org
+all_open_lab_office_hours_url: https://example.org
 ---
+
+<style>
+ summary { 
+     border: 4px solid #9CBEBE;
+     padding: 0.5em;
+     background-color:  #DAE6E6;
+     margin-bottom: 0.5em;
+ }
+
+ summary p {
+  margin: 0px;
+  padding 0px;
+  display: inline-block;
+ }
+    
+ details { 
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    border: 4px solid #047C91;
+    padding: 0.5em;
+ }
+</style>
+
+
 
 Open lab hours refers to the times that these rooms:
 
@@ -24,10 +54,25 @@ Note that these steps are for **instructors**, not for TAs/LAs.  TA/LAs should f
 
 You can visit the link below to see the calendar that shows all of the times that the rooms are available.
 
-* [UCSB CS Open Lab Hours]({{page.open_lab_hours_cal_url}})
+* [UCSB CS Open Lab Hour Room Availability]({{page.open_lab_hours_cal_url}})
    
 TAs/LAs are encouraged to sign up for office hours during these times.  If it is helpful or necessary for them to hold office hours at other times,
 they may do so either (a) online on zoom, or (b) using the "TA Trailer", or some other location.
+
+<details>
+   <summary>Click the ▶ to see a list of the calendars we've received so far</summary>
+   
+| Course | Office Hours |
+|--------|--------------|
+| CS16   | [CS 16 Office Hours]({{page.cs16_url}})
+| CS24   | [CS 24 Office Hours]({{page.cs24_url}})
+
+Plus these two special calendars:
+ 
+* [UCSB CS Open Lab Hour Room Availability]({{page.open_lab_hours_cal_url}})
+* [All Open Lab Office Hours]({{page.all_open_lab_office_hours}})
+   
+</details>
 
 # Start by creating a Google Calendar for your course's office hours
 
