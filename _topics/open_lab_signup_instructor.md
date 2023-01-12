@@ -59,13 +59,14 @@ You can visit the link below to see the calendar that shows all of the times tha
 TAs/LAs are encouraged to sign up for office hours during these times.  If it is helpful or necessary for them to hold office hours at other times,
 they may do so either (a) online on zoom, or (b) using the "TA Trailer", or some other location.
 
-<details>
-   <summary>Click the ▶ to see a list of the calendars we've received so far</summary>
+<details markdown="1">
+
+<summary>Click to see a list of the calendars we've received so far</summary>
    
 | Course | Office Hours |
 |--------|--------------|
-| CS16   | [CS 16 Office Hours]({{page.cs16_url}})
-| CS24   | [CS 24 Office Hours]({{page.cs24_url}})
+| CS16   | [CS 16 Office Hours]({{page.cs16_url}}) |
+| CS24   | [CS 24 Office Hours]({{page.cs24_url}}) |
 
 Plus these two special calendars:
  
