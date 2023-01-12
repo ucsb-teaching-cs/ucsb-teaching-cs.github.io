@@ -66,6 +66,7 @@ Here are the calendars we've received so far:
 |--------|--------------|
 | CS16   | [CS 16 Office Hours](/calendars/cs16) |
 | CS24   | [CS 24 Office Hours](/calendars/cs24) |
+{:.table .table-sm .table-striped .table-bordered}
 
 
 # Start by creating a Google Calendar for your course's office hours
