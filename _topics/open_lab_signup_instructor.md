@@ -2,7 +2,7 @@
 topic: "Open Lab Signup: Instructor"
 desc: "Process for signing up for open lab hours"
 open_lab_hours_cal_url:  https://calendar.google.com/calendar/embed?src=c_63b5996e60394b6a3b1710ad1332901ffe44a7ee8f577acee5f98eb956dfb5cb%40group.calendar.google.com&ctz=America%2FLos_Angeles
-cs16_url: https://example.org
+cs16_url: https://ucsb-teaching-cs.github.io/calendars/cs16
 cs24_url: https://example.org
 all_open_lab_office_hours_url: https://example.org
 ---
@@ -65,13 +65,13 @@ they may do so either (a) online on zoom, or (b) using the "TA Trailer", or some
    
 | Course | Office Hours |
 |--------|--------------|
-| CS16   | [CS 16 Office Hours]({{page.cs16_url}}) |
-| CS24   | [CS 24 Office Hours]({{page.cs24_url}}) |
+| CS16   | [CS 16 Office Hours](/calendars/cs16}) |
+| CS24   | [CS 24 Office Hours](/calendars/cs24) |
 
 Plus these two special calendars:
  
 * [UCSB CS Open Lab Hour Room Availability]({{page.open_lab_hours_cal_url}})
-* [All Open Lab Office Hours]({{page.all_open_lab_office_hours}})
+* [All Open Lab Office Hours]({{/calendars/all}})
    
 </details>
 
