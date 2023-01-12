@@ -38,15 +38,14 @@ Open lab hours refers to the times that these rooms:
 
 * Phelps 3525, 3526, 2510
 
-Are reserved for TAs/LAs/Instructors to hold in-person office hours for these courses:
+Are reserved for TAs/LAs/Instructors to hold office hours for the face-to-face courses that are part of the LA program; in W23 that's these courses:
 
-* CMPSC 5A, 5B
-* CMPSC 8 (in-person version)
+* CMPSC 5A
 * CMPSC 9, 16, 24, 32, 40, 64
 * CMPSC 40, 130A, 130B
-* CMPSC 111, 148, 156
+* CMPSC 111, 148, 154, 190A
 
-Starting with W23, we are piloting a new process for signing up for these hours.
+Starting with W23, we are piloting a new process for signing up for these hours; this replaces a rather tedious and error prone spreadsheet that was the cause of much consternation.  We are hoping this is more straightforward.
 
 # Instructor Steps
 
