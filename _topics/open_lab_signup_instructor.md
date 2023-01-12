@@ -91,12 +91,21 @@ This animation shows how to copy/paste a whole group of emails from a spreadshee
 
 # Then, invite your TAs/LAs to create events on the calendar
 
-Send each of your TAs and LAs a message with 
-* A link to the instructions on this page: 
-  * <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_tas_las/>
-* A link to the calendar you just created.
+Send each of your TAs and LAs a message saying:
 
-# If you like, add additional events.
+> I've invited you to a Google Calendar called "CSxxx Office Hours".
+> Please take these steps next:
+> * Find the calendar invite in your email; it will look like this:
+>   <img width="606" alt="image" src="https://user-images.githubusercontent.com/1119017/211951460-bec4c768-fd17-475e-8afe-718e46ae92b7.png">
+> * In the email, click the link where it says `Add this calendar`
+> * Please then read and follow these instructions about adding your office hours to the calendar
+>   * <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_tas_las/>
+> * Please be sure that you add the events in the format requested, e.g. `CSxxx, Name, Location`
+> * It is not necessary to write `Office Hours` in your event title; since everything on the calendar is office hours unless otherwise specified.
+
+You may add any additional instructions you like about the number of office hours, etc.
+
+# If you like, add additional events
 
 Instructors may wish to add entries for events such as these so that the calendar is useful for the students in the course.
 
