@@ -8,4 +8,5 @@ desc: ""
 </style>
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y19jNzc4ODQ5M2QyZTQyNDk5MmM1YTIzOTNkZWYzMTY2MmJiMmNjYzM5Y2NkMDNlNTFkYTYxNTEwZjk2NWY3MWUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y181NjVmNmM2Y2ZlYzE5MDliNWI2OWU3YTM1N2YyMDU5YTdmNGQwNjMwZjNjMDY5ZmIzM2IyNDFiZTIzMWE3OWE2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF&color=%23AD1457" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y19jNzc4ODQ5M2QyZTQyNDk5MmM1YTIzOTNkZWYzMTY2MmJiMmNjYzM5Y2NkMDNlNTFkYTYxNTEwZjk2NWY3MWUzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y182M2I1OTk2ZTYwMzk0YjZhM2IxNzEwYWQxMzMyOTAxZmZlNDRhN2VlOGY1NzdhY2VlNWY5OGViOTU2ZGZiNWNiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y180MmFlNDVlNzg3NjE3M2MzYzUzYjc0YjY5OWM2YjE0MWVmMzMxNzBmM2M4YmE3ZjE0MzZhNmI5N2JiOWY1ZGE1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF&color=%23AD1457&color=%233F51B5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
