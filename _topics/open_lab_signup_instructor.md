@@ -44,7 +44,7 @@ Are reserved for TAs/LAs/Instructors to hold in-person office hours for these co
 * CMPSC 8 (in-person version)
 * CMPSC 9, 16, 24, 32, 40, 64
 * CMPSC 40, 130A, 130B
-* CMPSC 148, 156
+* CMPSC 111, 148, 156
 
 Starting with W23, we are piloting a new process for signing up for these hours.
 
