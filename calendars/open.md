@@ -7,7 +7,7 @@ desc: ""
      iframe { width: 100%; height: 1400px; }
 </style>
 
-# {{page.topic}}
+
 
 This calendar shows the times that the open lab rooms are available for scheduling office hours.
 
