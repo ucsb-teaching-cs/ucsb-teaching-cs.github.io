@@ -65,7 +65,7 @@ they may do so either (a) online on zoom, or (b) using the "TA Trailer", or some
    
 | Course | Office Hours |
 |--------|--------------|
-| CS16   | [CS 16 Office Hours](/calendars/cs16}) |
+| CS16   | [CS 16 Office Hours](/calendars/cs16) |
 | CS24   | [CS 24 Office Hours](/calendars/cs24) |
 
 Plus these two special calendars:
