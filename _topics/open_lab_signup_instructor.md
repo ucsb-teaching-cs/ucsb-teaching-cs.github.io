@@ -50,7 +50,8 @@ Starting with W23, we are piloting a new process for signing up for these hours.
 
 # Instructor Steps
 
-Note that these steps are for **instructors**, not for TAs/LAs.  TA/LAs should follow these instructions instead:  <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_tas_las/>
+Note that these steps are for **instructors**, not for TAs/LAs.  TA/LAs should follow these instructions instead: 
+* <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_tas_las/>
 
 You can visit the link below to see the calendar that shows all of the times that the rooms are available.
 
