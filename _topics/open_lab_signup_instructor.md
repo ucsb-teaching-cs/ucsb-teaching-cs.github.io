@@ -1,6 +1,6 @@
 ---
-topic: "Open Lab Signup: Instructor"
-desc: "Process for signing up for open lab hours"
+topic: "Open Lab Signup: Creating Calendars"
+desc: "Creating a calendar for a new course"
 open_lab_hours_cal_url:  https://calendar.google.com/calendar/embed?src=c_63b5996e60394b6a3b1710ad1332901ffe44a7ee8f577acee5f98eb956dfb5cb%40group.calendar.google.com&ctz=America%2FLos_Angeles
 cs16_url: https://ucsb-teaching-cs.github.io/calendars/cs16
 cs24_url: https://example.org
@@ -47,10 +47,26 @@ Are reserved for TAs/LAs/Instructors to hold office hours for the face-to-face c
 
 Starting with W23, we are piloting a new process for signing up for these hours; this replaces a rather tedious and error prone spreadsheet that was the cause of much consternation.  We are hoping this is more straightforward.
 
-# Instructor Steps
+# Is your course on this list?
 
-Note that these steps are for **instructors**, not for TAs/LAs.  TA/LAs should follow these instructions instead: 
-* <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_tas_las/>
+If your course is on this list, a calendar of office hours for your course is already set up.
+
+In that case, you proceed to the page: <https://ucsb-teaching-cs.github.io/topics/open_lab_signup_add_staff_to_calendar/> to learn how to add staff to your calendar.
+
+| Course | Office Hours |
+|--------|--------------|
+| CS16   | [CS 16 Office Hours](/calendars/cs16) |
+| CS24   | [CS 24 Office Hours](/calendars/cs24) |
+{:.table .table-sm .table-striped .table-bordered}
+
+Otherwise, you will need to either take the steps below, or ask someone involved with the LA program to do them on your behalf (e.g. Phill, Diba, or one of the program leads.)
+
+# Calendar Setup Steps
+
+This is a one time step per course.  It can be done by the LA program directors, by the instructor of the course, or by any of the TAs/LAs involved.
+
+
+
 
 You can visit the link below to see the calendar that shows all of the times that the rooms are available.
 
